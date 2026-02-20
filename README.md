@@ -1,4 +1,4 @@
-# Howzit, I'm [Daniel](https://danielyhong.com/)! 🤙
+# Howzit, I'm [Daniel](https://www.danielyhong.com/)! 🤙
 
 ![](https://raw.githubusercontent.com/DHProgramming808/DHProgramming808/main/github-header-banner.png)
 
