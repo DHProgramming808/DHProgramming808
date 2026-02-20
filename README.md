@@ -1,16 +1,15 @@
-## Hi there 👋
+# Howzit, I'm [Daniel](https://danielyhong.com/)! 🤙
 
-<!--
-**DHProgramming808/DHProgramming808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![]
 
-Here are some ideas to get you started:
+### It's so nice to meet you! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Scuba Diver, a Pilot(in-training), a neuroscientist, and a Full-stack Engineer. I'm a man of many talents, but no matter what I do, you can be rest assured that I'll do it with my whole back. I've been immersing myself in the world of computers and programming since 2018, and I've fallen in love ever since.
+
+### Where I'm headed now ✈️
+
+My background in **Natural Intelligence** has opened my eyes on the latest and greatest in **Artificial Intelligence** in recent years. I'm working on a cerebral, agentic AI assistant with my closest friends. Instead of approaching the app from the same silicon-based perspective everyone else is in the industry, we're taking a **unique approach**, taking a page from neurons that gave us the neural networks we know and love today. 
+
+### I hope to hear from you soon!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-y-hong/)
